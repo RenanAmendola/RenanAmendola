@@ -1,9 +1,9 @@
    Hi there 👋
 
-- 🔭 looking for my first job / procuro meu primeiro emprego
-- 🌱 Full Stack development / Desenvolvimento Full Stack
+- 🔭 looking forward to enhance my knowledge / procuro melhorar meu conhecimento
+- 🌱 Programer in development / Desenvolvedor em desenvolvimento
 - 📫 How to reach me / Como me encontra: linkedin: https://www.linkedin.com/in/renan-amendola/
-- 😄 Pronouns / Pronomes: ele/he
+- 😄 Pronouns: He/him / Pronomes: ele/dele
 - ⚡ Fun fact: did you know, you can buy iron and carbom for the price of just one alloy???? what a steel :D
 
 
